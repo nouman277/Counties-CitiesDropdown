@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WellCome To Country Spinner</string>
+
+    <string-array name="empty">
+
+    </string-array>
+    <string-array name="countryName">
+        <item>Choose a country</item>
+        <item>PAKISTAN</item>
+        <item>INDIA</item>
+        <item>CHINA</item>
+    </string-array>
+    <string-array name="citiesOfPakistan">
+        <item>Choose a city of PAKISTAN</item>
+        <item>ISLAMABAD</item>
+        <item>LAHORE</item>
+        <item>KARACHI</item>
+    </string-array>
+    <string-array name="citesOfIndia">
+        <item>Choose a city of INDIA</item>
+        <item>NEW DELHI</item>
+        <item>MUMBAI</item>
+        <item>GOA</item>
+    </string-array>
+    <string-array name="citiesOfChina">
+        <item>Choose a city of CHINA</item>
+        <item>BEIJING</item>
+        <item>SHANGHAI</item>
+        <item>SHENZHEN</item>
+    </string-array>
+
+
+</resources>
